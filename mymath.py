@@ -5,3 +5,6 @@ def add(a,b):
 #This is a function to subtract two numbers
 def subtract(a,b):
 	return a - b
+
+def multiply(a, b):
+    return a*b
